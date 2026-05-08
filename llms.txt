@@ -1,0 +1,9 @@
+# The Giverny Residences
+
+> The Giverny Residences — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/thegivernyresidences/
+
+## Pages
+
+- [The Giverny Residences](https://singaporenewproperty.github.io/thegivernyresidences/): The Giverny Residences property information.
